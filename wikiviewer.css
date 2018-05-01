@@ -1,0 +1,93 @@
+body {
+	background: linear-gradient(#0B3040, #17607F, #228FBF, #2EBFFF);
+   background-repeat: no-repeat;
+   
+   
+}
+#container {
+	text-align: center;
+	display: inline-grid;
+	 
+
+}
+
+.highlight {
+	background-color: #EC1CFF;
+	opacity: 0.99;
+}
+
+label {
+	font-size: 24px;
+	margin-top: 40px;
+	color: #2EBFFF;
+}
+
+
+#subhead {
+
+    color: #2EBFFF;
+    margin-bottom: 12px;
+
+}
+
+
+#textLabel {
+	font-size: 24px;
+	margin-top: 22px;
+	color: #2EBFFF;
+
+}
+
+#inputField {
+	border-radius: 5px;
+	background-color: #BED9FF;
+}
+
+#resultFrame {
+	margin-top: 12px;
+	border-radius: 12px;
+	border-width: 5px;
+	border-color: #2EBFFF;
+}
+
+button {
+	margin-bottom: 10px;
+	margin-top: 12px;
+	background: linear-gradient(#2EBFFF, #228FBF,#17607F, #0B3040);
+    color:  #95D9FF;
+    border-radius: 8px;
+    border-width: 0px;
+    border-color: #95D9FF;
+    padding: 2px 4px 2px 4px;
+}
+
+#refreshTxt {
+	color:  #95D9FF;
+}
+
+#resultsArea {
+	margin-top: 30px;
+}
+
+.title {
+	text-decoration: none;
+	background-color: #95D9FF;
+	opacity: 0.5;
+	border-style: solid;
+	border-width: 0px;
+	border-color: #000;
+	border-radius: 7px;
+	margin-top: 20px;
+	margin-bottom: 8px;
+	margin-left: 80px;
+	margin-right: 80px;
+	padding: 4px 0px 4px 0px;
+	box-shadow: 2px 3px #000;
+}
+
+#titleZone a {
+	text-decoration: none;
+	color: #000;
+	
+}
+
